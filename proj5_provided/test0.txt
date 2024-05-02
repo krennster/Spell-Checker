@@ -1,0 +1,3 @@
+test acm, cah
+test brd
+test olh

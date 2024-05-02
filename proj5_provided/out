@@ -1,0 +1,302 @@
+Enter preferred hash table capacity: 7
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Enter dictionary filename to load from: Dictionary loaded successfully.
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Size of hashtable: 4
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : v[0]: has	no	
+v[1]: 
+v[2]: 
+v[3]: have	yes	
+v[4]: 
+v[5]: 
+v[6]: 
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : 
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : v[0]: 
+v[1]: 
+v[2]: 
+v[3]: 
+v[4]: 
+v[5]: 
+v[6]: 
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Size of hashtable: 0
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Enter dictionary filename to load from: Dictionary loaded successfully.
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : v[0]: to	apple	
+v[1]: califlower	my	has	
+v[2]: have	
+v[3]: 
+v[4]: 
+v[5]: at	eye	
+v[6]: lime	
+v[7]: go	orange	
+v[8]: 
+v[9]: 
+v[10]: 
+v[11]: 
+v[12]: 
+v[13]: 
+v[14]: no	i	
+v[15]: 
+v[16]: yes	
+v[17]: 
+v[18]: 
+v[19]: the	
+v[20]: am	pear	peach	
+v[21]: you	he	
+v[22]: 
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Enter word: 
+Word aaa added.
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Enter word: 
+Word bbb added.
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : v[0]: to	apple	
+v[1]: califlower	my	has	
+v[2]: have	
+v[3]: 
+v[4]: bbb	
+v[5]: at	eye	
+v[6]: lime	
+v[7]: go	orange	
+v[8]: 
+v[9]: 
+v[10]: 
+v[11]: 
+v[12]: aaa	
+v[13]: 
+v[14]: no	i	
+v[15]: 
+v[16]: yes	
+v[17]: 
+v[18]: 
+v[19]: the	
+v[20]: am	pear	peach	
+v[21]: you	he	
+v[22]: 
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Enter word: 
+Word bbb found. 
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Enter word: Word bbb deleted.
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : v[0]: to	apple	
+v[1]: califlower	my	has	
+v[2]: have	
+v[3]: 
+v[4]: 
+v[5]: at	eye	
+v[6]: lime	
+v[7]: go	orange	
+v[8]: 
+v[9]: 
+v[10]: 
+v[11]: 
+v[12]: aaa	
+v[13]: 
+v[14]: no	i	
+v[15]: 
+v[16]: yes	
+v[17]: 
+v[18]: 
+v[19]: the	
+v[20]: am	pear	peach	
+v[21]: you	he	
+v[22]: 
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Size of hashtable: 21
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : Enter dictionary file name to write to: Written successfully.
+
+
+l - Load Dictionary From File
+a - Add Word
+r - Remove Word
+c - Clear HashTable
+f - Find Word
+d - Dump HashTable
+s - HashTable Size
+w - Write to File
+x - Exit program
+
+Enter choice : 

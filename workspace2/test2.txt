@@ -1,0 +1,17 @@
+Welcome to the Department of Computer Science at the Florida State University. Our
+mission is
+
+    To strive for excellence in creating, applying, and imparting knowledge in
+computer science through comprehensive educational programs, research in collaboration
+with industry and government, and dissemination through scholarly publications;
+
+    To produce outstanding computer science professionals who have the fundamental
+knowledge, problem solving skills, and life long learning capability to advance their
+careers.
+
+    To disseminate computer science knowledge to students and professionals in other
+disciplines, and
+
+    To provide service to the university community, professional societies, local
+communities, the state, and the nation.
+

@@ -1,0 +1,4 @@
+has
+have
+no
+yes
